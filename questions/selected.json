@@ -1,0 +1,12 @@
+[
+{
+		"question":"<html>You can use this file as template for create your questions, you can use html for customize your answers and questions.<br><b>NOTE : </b> The index answer start from 0<br> For select the first one as correct, use the index 0 <br><br></html>",
+		"answers":["<html>Answer 1</html>","<html>Answer 2</html>","<html>Answer 3</html>", "<html>Answer 4</html>"],
+		"right_answers": ["0"]
+	},{
+		"question":"<html>Questo file può essere utilizzato per creare le tue domande a risposta multipla, utilizza l'html per personalizzare le tue domande.<br><b>NOTA : </b> Le risposte vengono indicizzate a partire da zero.<br> Per selezionare la prima come corretta, inserire 0<br><br></html>",
+		"answers":["<html>Risposta 1</html>","<html>Risposta 2</html>","<html>Risposta 3</html>", "<html>Risposta 4</html>"],
+		"right_answers": ["0"]
+	}
+	
+]
