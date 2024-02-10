@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=Domande risposte multiple
+Path=/absolute/path/DRM/
+Exec=java -jar /absolute/path/DRM/DRM.jar
+Categories=Istruzione
+Icon=/absolute/path/DRM/icon.png
