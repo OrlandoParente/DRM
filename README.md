@@ -34,10 +34,10 @@ You can add a new question adding the following block of code (that is a json ob
 
 ```json
 {
-		"author":"this is not mandatory, the program will ignore this field",
-		"question":"<html>You can use this file as template for create your questions, you can use html for customize your answers and questions.<br><b>NOTE : </b> The index answer start from 0<br> For select the first one as correct, use the index 0 <br><br></html>",
-		"answers":["<html>Answer 1</html>","<html>Answer 2</html>","<html>Answer 3</html>", "<html>Answer 4</html>"],
-		"right_answers": ["0"]
+	"author":"this is not mandatory, the program will ignore this field",
+	"question":"<html>You can use this file as template for create your questions, you can use html for customize your answers and questions.<br><b>NOTE : </b> The index answer start from 0<br> For select the first one as correct, use the index 0 <br><br></html>",
+	"answers":["<html>Answer 1</html>","<html>Answer 2</html>","<html>Answer 3</html>", "<html>Answer 4</html>"],
+	"right_answers": ["0"]
 }
 ```
 
