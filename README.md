@@ -23,7 +23,7 @@ You can generate the DRM.exe with [launch4j](https://launch4j.sourceforge.net/):
 ### How to generate the executable DRM on Linux
 
 1. Make sure you have jre-8 or latest version installed on your computer
-2. Edit the DRM.desktop file: chenge "/absolute/path/DRM" with the absolute path of DRM folder. For example if you put the DRM folder in the Home folder, the absolute path will be "/home/USER_NAME/DRM"
+2. Edit the DRM.desktop file: change "/absolute/path/DRM" with the absolute path of DRM folder. For example if you put the DRM folder in the Home folder, the absolute path will be "/home/USER_NAME/DRM"
 3. move DRM.desktop in Home/.local/share/applications folder, you can use the following command from the terminal opened in the DRM folder `cp DRM.desktop ~/local/share/applications/`
 4. The DRM icon should appear on your start menu
 
