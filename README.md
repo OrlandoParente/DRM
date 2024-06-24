@@ -29,7 +29,7 @@ You can generate the DRM.exe with [launch4j](https://launch4j.sourceforge.net/):
 
 ## How to generate a test with multiple choice questions
 
-For generate edit the file **selected.json** in the folder **questions**.
+For generate a test with multiple choice questions edit the file **selected.json** in the folder **questions**.
 You can add a new question adding the following block of code (that is a json object):
 
 ```json
